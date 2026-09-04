@@ -69,7 +69,7 @@ export default function AtRiskRevenue() {
         <Topbar />
 
         <section className="dashboard-content">
-          //HEADER
+          {/* HEADER */}
           <div className="page-header">
             <div>
               <h1>At-Risk Revenue</h1>
@@ -86,7 +86,7 @@ export default function AtRiskRevenue() {
             </div>
           </div>
 
-          //KPI CARDS
+          {/* KPI CARDS */}
           <div className="stats-grid">
             <RiskStat
               title="Revenue at Risk"
@@ -121,7 +121,7 @@ export default function AtRiskRevenue() {
             />
           </div>
 
-          //CASE TABLE
+          {/* CASE TABLE */}
           <div className="panel risk-table-panel">
             <div className="panel-header">
               <div>
