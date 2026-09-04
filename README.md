@@ -147,14 +147,6 @@ The major challenges and their solutions are documented here:
 
 The final implementation successfully completed the recovery loop from **at-risk transaction to confirmed payment and audit event**.
 
-## Future Improvements
-
-- Personalized recovery messaging based on customer behavior
-- Multiple recovery strategies beyond Payment Links
-- Recovery performance optimization using historical outcomes
-- Automated recovery prioritization based on expected revenue
-- Production-grade authentication and role-based access control
-
 ## License
 
 This project was built as part of the **Razorpay AI Builder Internship 2026 — Track 03: AI Revenue Recovery**.
