@@ -130,10 +130,6 @@ A complete end-to-end recovery has been successfully tested in Razorpay Test Mod
 
 **Live Application:** https://revenue-recovery-ai-one.vercel.app/
 
-**5-Minute Demo:**
-
-_video link _
-
 ## What Broke & How It Was Solved
 
 During development, the system encountered issues across AI processing, payment execution, webhook handling, and deployment.
