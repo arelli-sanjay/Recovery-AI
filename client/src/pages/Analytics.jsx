@@ -12,7 +12,7 @@ import {
   ArrowUpRight,
 } from "lucide-react";
 
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/Sidebar"; 
 import Topbar from "../components/Topbar";
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
