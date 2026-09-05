@@ -19,8 +19,8 @@ export default function AtRiskRevenue() {
     const loadCases = async () => {
       try {
         const response = await fetch(
-          "http://localhost:5000/api/recovery/cases"
-        );
+  `${import.meta.env.VITE_API_BASE_URL}/recovery/cases`
+);
 
         const result = await response.json();
 
