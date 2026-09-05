@@ -128,7 +128,7 @@ The system combines **AI reasoning with deterministic controls**, allowing autom
 
 A complete end-to-end recovery has been successfully tested in Razorpay Test Mode, resulting in **₹2,499 of recovered revenue**.
 
-**Live Application:** https://revenue-recovery-ai-one.vercel.app/analytics
+**Live Application:** https://revenue-recovery-ai-one.vercel.app/
 
 **5-Minute Demo:**
 
